@@ -23,4 +23,6 @@ function scrollToBaixar() {
 }
 
 
-
+function linkDownload(){
+    window.location.href = 'linkMega'
+}
