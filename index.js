@@ -24,5 +24,5 @@ function scrollToBaixar() {
 
 
 function linkDownload(){
-    window.location.href = 'linkMega'
+    window.location.href = 'https://mega.nz/folder/L2gXhYqA#qcbvmvuTzGBpN9wmlSJZuQ'
 }
